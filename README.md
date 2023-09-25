@@ -34,11 +34,11 @@ Welcome to the AI Variant Data Analyst Internship Project: Employee Retention! T
 
 ## Project Overview
 
-- **Domain:** HR Analytics
-- **Project Name:** Employee Retention
-- **Dataset Names:** HR_1 & HR_2
-- **Dataset Type:** Excel Data
-- **Dataset Size:** 50,000 records each
+- **Domain:** `HR Analytics`
+- **Project Name:** `Employee Retention`
+- **Dataset Names:** `HR_1 & HR_2`
+- **Dataset Type:** `Excel Data`
+- **Dataset Size:** `50,000 records each`
 
 ## Key Performance Indicators (KPIs)
 
@@ -135,8 +135,8 @@ SQL queries played a crucial role in extracting and analyzing data for the key p
 	 #USING VIEWS FOR KPI 1
     SELECT * FROM KPI1;
 ```
-![1](https://github.com/DeveshGaonkar/Employee_Retention/assets/138006145/c9716d9d-febf-4c88-9de9-4d4a9fe35444)
 
+![s1](https://github.com/DeveshGaonkar/Employee_Retention/assets/138006145/fd8e02ca-f9f2-4984-9276-09d80507d3cf)
 
 ### KPI 2: Average Hourly rate of Male Research Scientist
 
@@ -161,7 +161,7 @@ SQL queries played a crucial role in extracting and analyzing data for the key p
      SELECT * FROM KPI2;
 ```
 
-![2](https://github.com/DeveshGaonkar/Employee_Retention/assets/138006145/a3ad22ef-1e33-47ed-96d3-77de58cb4905)
+![s2](https://github.com/DeveshGaonkar/Employee_Retention/assets/138006145/f0fc8fc0-c332-4642-bfcd-6d490d3cb0aa)
 
 ### KPI 3: Attrition rate Vs Monthly income stats
 
@@ -291,7 +291,7 @@ The SQL analysis reveals insights into employee attrition, hourly rates, income 
 
 ## Usage Instructions
 
-- Clone the project repository using the command: `git clone [repository URL]`.
+- Clone the project repository using the command: `git clone [https://github.com/DeveshGaonkar/Employee_Retention]`.
 - Ensure the Excel datasets (HR_1.xlsx and HR_2.xlsx) are available in the designated folders.
 - Open the respective dashboard tools (Excel, Power BI, Tableau) and link the datasets to your project.
 - Access and interact with the dashboards to explore HR Analytics insights.
@@ -317,10 +317,10 @@ Future work could involve predictive modeling for employee retention, advanced S
 
 ## Contact Information
 
-- **Name:** Devesh Ghanshyam Gaonkar
-- **Email Address:** gaonkardevesh@gmail.com
-- **LinkedIn Profile:** [https://www.linkedin.com/in/devesh-gaonkar/]
-- **GitHub Repository:** [Your GitHub Repository URL]
+- **Name:** `Devesh Ghanshyam Gaonkar`
+- **Email Address:** `gaonkardevesh@gmail.com`
+- **LinkedIn Profile:** `https://www.linkedin.com/in/devesh-gaonkar`
+- **GitHub Repository:** `https://github.com/DeveshGaonkar/Employee_Retention`
 
 ## Additional Resources
 
